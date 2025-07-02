@@ -62,3 +62,12 @@ docker run -i -t ubuntu /bin/bash
 ### docker network
 
 Manage Docker networks such as creating and removing networks, and connecting containers to networks.
+
+### Publishing and Exposing Ports
+Creates bridge between the isolated environment of the container and outside of the world
+
+Links a specific port on the container to a port on the host machie
+
+enable external access to the service running inside the container
+
+docker run -d -p 8080:80 docker/welcome-to-docker
