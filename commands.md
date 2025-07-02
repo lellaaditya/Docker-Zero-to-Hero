@@ -53,6 +53,12 @@ Uploads an image to the configured registry.
 
 Run a command in a running container.
 
+### Docker starts the container and executes /bin/bash. Because the container is running interactively and attached to your terminal (due to the -i and -t flags), you can provide input using your keyboard while Docker logs the output to your terminal
+
+docker run -i -t ubuntu /bin/bash
+
+![alt text](image.png)
+
 ### docker network
 
 Manage Docker networks such as creating and removing networks, and connecting containers to networks.
