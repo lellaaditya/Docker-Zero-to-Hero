@@ -73,3 +73,6 @@ enable external access to the service running inside the container
 docker run -d -p 8080:80 docker/welcome-to-docker
 
 <img width="365" alt="image" src="https://github.com/user-attachments/assets/e399281d-4731-4b21-8057-9c94388c47a1" />
+
+
+<img width="449" alt="image" src="https://github.com/user-attachments/assets/b32c9217-577a-4aed-8fa6-059a88e09935" />
