@@ -76,3 +76,8 @@ docker run -d -p 8080:80 docker/welcome-to-docker
 
 
 <img width="449" alt="image" src="https://github.com/user-attachments/assets/b32c9217-577a-4aed-8fa6-059a88e09935" />
+
+
+
+<img width="391" alt="image" src="https://github.com/user-attachments/assets/7365ced4-dfbd-4f93-807b-aa81057bce8a" />
+
