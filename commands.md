@@ -81,3 +81,6 @@ docker run -d -p 8080:80 docker/welcome-to-docker
 
 <img width="391" alt="image" src="https://github.com/user-attachments/assets/7365ced4-dfbd-4f93-807b-aa81057bce8a" />
 
+Naming
+
+https://www.docker.com/blog/docker-0-6-5-links-container-naming-advanced-port-redirects-host-integration/
